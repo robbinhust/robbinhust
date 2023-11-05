@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nguyen Duc Dai (Robinhust)</h1>
-<h3 align="center">An embedded engineer</h3>
+Hi there 👋 
+### This is Nguyen Duc Dai!
+### I'm an embedded engineer.
 
-- 🌱 I’m currently learning **C, Python and Deep learning**
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](httpshttps://github.com/robin-hust)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robinhust/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ducdai.hust@gmail.com)
 
-- 📫 How to reach me **ducdai.hust@gmail.com**
+🌱 I’m currently learning **C, Python and Deep learning**
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin-hust&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
