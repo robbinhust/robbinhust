@@ -12,5 +12,15 @@
 <a href="https://linkedin.com/in/robinhust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quynh-giang-nguyen-265a11194" height="30" width="40" /></a>
 </p>
 
+#### :computer: Programming languages and tools: 
+<p>
+<code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
+<br />
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/st-microelectronics-1.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg"></code>
 
+</p>
 
